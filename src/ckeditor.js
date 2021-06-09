@@ -36,7 +36,6 @@ import AutoLink from '@ckeditor/ckeditor5-link/src/autolink';
 import SpecialCharacters from '@ckeditor/ckeditor5-special-characters/src/specialcharacters';
 import SpecialCharactersEssentials from '@ckeditor/ckeditor5-special-characters/src/specialcharactersessentials';
 import HtmlEmbed from '@ckeditor/ckeditor5-html-embed/src/htmlembed';
-import CodeBlock from '@ckeditor/ckeditor5-code-block/src/codeblock';
 import { StrapiUploadAdapter } from '@gtomato/ckeditor5-strapi-upload-plugin';
 import { StrapiMediaLib } from './strapi-medialib-plugin';
 import sanitizeHtml from 'sanitize-html';
