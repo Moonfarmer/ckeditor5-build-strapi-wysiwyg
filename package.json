@@ -80,8 +80,7 @@
     "build": "webpack --mode production",
     "prepare": "npm run build",
     "preversion": "npm run build",
-    "postversion": "git push && git push --tags",
-    "postinstall": "cd ./node_modules/ckeditor5-build-strapi-wysiwyg && npm install && npm run build"
+    "postversion": "git push && git push --tags"
   },
   "lint-staged": {
     "**/*.js": [
