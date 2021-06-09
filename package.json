@@ -39,7 +39,6 @@
     "@ckeditor/ckeditor5-easy-image": "^27.1.0",
     "@ckeditor/ckeditor5-editor-classic": "^27.1.0",
     "@ckeditor/ckeditor5-essentials": "^27.1.0",
-    "@ckeditor/ckeditor5-font": "^27.1.0",
     "@ckeditor/ckeditor5-heading": "^27.1.0",
     "@ckeditor/ckeditor5-horizontal-line": "^27.1.0",
     "@ckeditor/ckeditor5-html-embed": "^27.1.0",
