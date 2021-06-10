@@ -79,7 +79,6 @@ ClassicEditor.builtinPlugins = [
 	HtmlEmbed,
 	StrapiUploadAdapter,
 	StrapiMediaLib,
-	Font,
 	CodeBlock,
 	FullScreen,
 	TableProperties,
@@ -91,10 +90,6 @@ ClassicEditor.defaultConfig = {
 	toolbar: {
 		items: [
 			'heading',
-			'|',
-			'fontFamily',
-			'fontSize',
-			'fontColor',
 			'|',
 			'bold',
 			'italic',
