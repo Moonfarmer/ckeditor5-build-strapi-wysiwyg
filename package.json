@@ -23,9 +23,6 @@
     "strapi"
   ],
   "main": "./build/ckeditor.js",
-  "files": [
-    "build"
-  ],
   "devDependencies": {
     "@ckeditor/ckeditor5-alignment": "^27.1.0",
     "@ckeditor/ckeditor5-autoformat": "^27.1.0",
