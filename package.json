@@ -77,8 +77,7 @@
     "build": "webpack --mode production",
     "prepare": "npm run build",
     "preversion": "npm run build",
-    "postversion": "git push && git push --tags",
-    "postinstall": "npx webpack --mode production"
+    "postversion": "git push && git push --tags"
   },
   "lint-staged": {
     "**/*.js": [
